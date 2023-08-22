@@ -5,11 +5,11 @@ I have struggled to grasp the content of AZ -104 in the past two months, I have 
 ## Content
 Each project will showcase one of the five essentials skills listed on the AZ-104 study guide on Microsoft learnhttps://learn.microsoft.com/en-gb/certifications/resources/study-guides/az-104
 
-# Project 1: "Onboard Automator" (Manage Azure identities and governance) 
+## Project 1: "Onboard Automator" (Manage Azure identities and governance) 
 
 Using the following services 
 
-Azure AD
+*Azure AD
 
 Azure Logic Apps 
 
