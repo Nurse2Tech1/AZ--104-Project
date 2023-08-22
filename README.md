@@ -7,8 +7,18 @@ Each project will showcase one of the five essentials skills listed on the AZ-10
 
 ## Project 1: "Onboard Automator" (Manage Azure identities and governance) 
 
-Using the following services 
 
+ * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
 *Azure AD
 
 Azure Logic Apps 
