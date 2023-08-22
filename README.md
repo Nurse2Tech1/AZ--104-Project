@@ -9,7 +9,7 @@ Each project will showcase one of the five essentials skills listed on the AZ-10
 
 Using the following services 
 
-<Azure AD>
+<u> Azure AD <u> 
 
 <Azure Logic Apps> 
 
