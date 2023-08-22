@@ -7,10 +7,10 @@ Each project will showcase one of the five essentials skills listed on the AZ-10
 
 ## Project 1: "Onboard Automator" (Manage Azure identities and governance) 
 
--Azure AD
+Azure AD
 
--Azure Logic Apps 
+Azure Logic Apps 
 
--Azure Email Service (part of Logic Apps connector)
+Azure Email Service (part of Logic Apps connector)
 
--Azure Resource Manager 
+Azure Resource Manager 
