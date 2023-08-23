@@ -1,4 +1,4 @@
-# AZ-104-Project: GPS (YouTube)
+# AZ-104-Project
 My 1st attempt to showcase my technical skills while preparing for the AZ-104 exam - Thank you GPS.
 
 I have struggled to grasp the content of AZ -104 in the past two months, I have quickly realised that if I do not actually practise, I probably won't be confident, let alone capable of working as an Azure administrator. I have two choices, memorize and cram to pass the exam (possible option) or learn to understand and confidently carry out Tasks in Azure. As I have heard over and over again, certifications are not enough. So I will try my absolute best. Thanks, GPS (check out her YouTube channel) for providing this project for free, really appreciate it. 
